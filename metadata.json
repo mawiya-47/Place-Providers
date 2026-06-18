@@ -1,0 +1,6 @@
+{
+  "name": "Provider Place",
+  "description": "Provider Place is a premium, modern, luxury IT services agency specializing in web development, AI solutions, SaaS products, business automation, and custom software.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
